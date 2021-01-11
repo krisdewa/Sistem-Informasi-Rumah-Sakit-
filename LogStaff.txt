@@ -1,0 +1,9 @@
+========< Data Staff >========
+Data 1 : 
+	 Id       : 100002021
+	 Nama     : Naufal Hafiz
+	 Umur     : 20
+	 Jabatan  : Karyawan
+	 Gaji     : 3000000
+	 Jam/Hari : 12
+

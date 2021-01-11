@@ -1,0 +1,17 @@
+========< Data Pasien >========
+Data 1 :
+	 Nik           : 190002133
+	 Nama          : Gentha Djamal
+	 Umur          : 20
+	 Jenis Kelamin : Laki
+	 Penyakit      : Batuk
+	 Status        : Sakit
+
+Data 2 :
+	 Nik           : 190001234
+	 Nama          : Fuqqa Ra
+	 Umur          : 20
+	 Jenis Kelamin : Laki
+	 Penyakit      : Pilek
+	 Status        : Sembuh
+

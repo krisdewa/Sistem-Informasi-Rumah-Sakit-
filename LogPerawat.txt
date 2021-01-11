@@ -1,0 +1,9 @@
+========< Data Perawat >========
+Data 1 :
+	 Id        : 10000
+	 Nama      : CythiaVira 
+	 Umur      : 23
+	 Jabatan   : Sekretaris
+	 Gaji      : 9000000
+	 Jam/Hari  : 10
+
